@@ -8,7 +8,14 @@
     "jquery": "^3.3.1",
     "prop-types": "^15.6.2",
     "react": "^16.4.1",
-    "react-dom": "^16.4.1"
+    "react-actioncable-provider": "^1.0.3",
+    "react-dom": "^16.4.1",
+    "react-emojione": "^5.0.0",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.3.1",
+    "redux": "^4.0.0",
+    "redux-logger": "^3.0.6",
+    "redux-promise": "^0.6.0"
   },
   "devDependencies": {
     "webpack-dev-server": "2.11.2"
