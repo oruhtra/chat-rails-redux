@@ -8,10 +8,10 @@ class Message < ApplicationRecord
   validate :settings_types
 
   store_attributes :settings do
-    color String
     font String, default: "Arial"
     bold Boolean, default: true
     words Integer, default: 0
+    color String
   end
 
   def serialize
